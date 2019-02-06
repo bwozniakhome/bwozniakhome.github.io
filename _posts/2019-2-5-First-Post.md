@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Brian's Blog: A Perspective on Data Science
+title: Welcome to Brian's Blog&#58; A Perspective on Data Science
 ---
 
 Hello! And welcome to my blog! I am excited to begin this part of my data science journey! 
