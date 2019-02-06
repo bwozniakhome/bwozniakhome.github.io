@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I graduated with a degree in Actuarial Science. After being exposed to data science, I quickly changed my career path. I enjoy analyzing data, building models, and better understanding the theory behind data science.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+In my free time I enjoy reading, racquetball, and watching college football.
 
 ### Contact me
 
